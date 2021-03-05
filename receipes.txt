@@ -2,3 +2,6 @@ pasta
 kaju katla
 SPROUTS 
 moong dal
+chicken fry 
+mutton fry 
+turkey soup
